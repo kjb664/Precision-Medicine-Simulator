@@ -16,5 +16,9 @@ It features:
 **App Script (.py)**  
 [🧪 precision_medicine_simulator.py](./precision_medicine_simulator.py)
 
-**Live Demo (Hugging Face)**  
-[![Launch on Hugging Face](https://img.shields.io/badge/Launch-Demo-blue?logo=huggingface)](https://huggingface.co/spaces/kjb664/precision-medicine-simulator)
+## 🎯 Try the Simulator
+
+👉 [Launch the App on Hugging Face](https://huggingface.co/spaces/Dr-Jeffrey-Hamilton/Precision-Medicine-Simulator)
+
+![App Screenshot](https://huggingface.co/spaces/Dr-Jeffrey-Hamilton/Precision-Medicine-Simulator/resolve/main/demo_preview.png)
+
